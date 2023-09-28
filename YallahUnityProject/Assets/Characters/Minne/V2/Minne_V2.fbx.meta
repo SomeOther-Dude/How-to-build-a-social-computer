@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 9bb4cc96b6ecc4c1ba2cdc27f831f63e
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      74: 2563891638681939858
+    second: Minne_armature|A-Pose
+  - first:
+      74: -7126833615804749822
+    second: Minne_armature|Minne_armature|Minne_armature|A-Pose
+  - first:
+      74: -5150494409969412143
+    second: Minne_armature|Minne_armature|Minne_armature|Clap
+  - first:
+      74: 6988419794248353982
+    second: Minne_armature|Minne_armature|Minne_armature|Head_shake
+  - first:
+      74: -7235845760182325349
+    second: Minne_armature|Minne_armature|Minne_armature|I_dont_know
+  - first:
+      74: 2097901888341676849
+    second: Minne_armature|Minne_armature|Minne_armature|IdleStanding
+  - first:
+      74: 4484570384550885753
+    second: Minne_armature|Minne_armature|Minne_armature|LeftTurn
+  - first:
+      74: 6790874329122757166
+    second: Minne_armature|Minne_armature|Minne_armature|RightTurn
+  - first:
+      74: 7562911818348440761
+    second: Minne_armature|Minne_armature|Minne_armature|Salsa
+  - first:
+      74: 3985071716520112397
+    second: Minne_armature|Minne_armature|Minne_armature|Salute
+  - first:
+      74: -5407991483793779983
+    second: Minne_armature|Minne_armature|Minne_armature|Thumbs_Up
+  - first:
+      74: -6893852604815044927
+    second: Minne_armature|Minne_armature|Minne_armature|WalkCycle
+  - first:
+      74: 5342405169888352810
+    second: Minne_armature|Minne_armature|Minne_armature|WalkCycleV2
+  - first:
+      74: 3501239301730208526
+    second: Minne_armature|Minne_armature|Minne_armature|Waving
+  - first:
+      74: -6167202199532030818
+    second: Minne_armature|Shader NodetreeAction.001
+  - first:
+      74: -8968972027179532591
+    second: Minne_armature|Shader NodetreeAction.002
+  - first:
+      74: 3022801216489125732
+    second: Minne_armature|Shader NodetreeAction.003
+  - first:
+      74: -5242520706908888263
+    second: Minne_armature|Shader NodetreeAction.004
+  - first:
+      74: 2162745317241564734
+    second: Minne_armature|Shader NodetreeAction.005
+  - first:
+      74: 3476051609558622475
+    second: Minne_armature|Shader NodetreeAction.006
+  - first:
+      74: 8370767346477650020
+    second: Minne_armature|Shader NodetreeAction.007
+  - first:
+      74: -96363038134434021
+    second: Minne_armature|Shader NodetreeAction.008
+  - first:
+      74: 5322092499177245289
+    second: Minne_armature|Shader NodetreeAction.009
+  - first:
+      74: 8161705736988868606
+    second: Minne_armature|Shader NodetreeAction.010
+  - first:
+      74: 331627942221814308
+    second: Minne_armature|Shader NodetreeAction.011
+  - first:
+      74: 7274402010289037368
+    second: Minne_armature|Shader NodetreeAction.012
+  - first:
+      74: 1399322623110858127
+    second: Minne_armature|Shader NodetreeAction.013
+  - first:
+      74: 3559569443080559467
+    second: Minne_armature|Shader NodetreeAction.014
+  - first:
+      74: -6056974753683378126
+    second: Minne_armature|Shader NodetreeAction.015
+  - first:
+      74: -7314050931092338936
+    second: Poloshirt|Minne_armature|Minne_armature|A-Pose
+  - first:
+      74: 9022996421537807735
+    second: Poloshirt|Shader NodetreeAction.001
+  - first:
+      74: -3391290896332590121
+    second: Poloshirt|Shader NodetreeAction.002
+  - first:
+      74: -2711912367292049676
+    second: Poloshirt|Shader NodetreeAction.003
+  - first:
+      74: 7099813735091922734
+    second: Poloshirt|Shader NodetreeAction.004
+  - first:
+      74: 6810120355484127102
+    second: Poloshirt|Shader NodetreeAction.005
+  - first:
+      74: 3620513826088988587
+    second: Poloshirt|Shader NodetreeAction.006
+  - first:
+      74: -5184156030750854366
+    second: Poloshirt|Shader NodetreeAction.007
+  - first:
+      74: 5190768573733278931
+    second: Poloshirt|Shader NodetreeAction.008
+  - first:
+      74: 2710938725585466764
+    second: Poloshirt|Shader NodetreeAction.009
+  - first:
+      74: 7098285072581975542
+    second: Poloshirt|Shader NodetreeAction.010
+  - first:
+      74: -8804394461052985072
+    second: Poloshirt|Shader NodetreeAction.011
+  - first:
+      74: -2670901375577218068
+    second: Poloshirt|Shader NodetreeAction.012
+  - first:
+      74: 9003922420197042810
+    second: Poloshirt|Shader NodetreeAction.013
+  - first:
+      74: -8577237797063523630
+    second: Poloshirt|Shader NodetreeAction.014
+  - first:
+      74: 8820163981781539922
+    second: Poloshirt|Shader NodetreeAction.015
+  - first:
+      74: 3755044043304948206
+    second: Shoes|Shader NodetreeAction.001
+  - first:
+      74: -7235231353861889827
+    second: Shoes|Shader NodetreeAction.002
+  - first:
+      74: -2978773595745838487
+    second: Shoes|Shader NodetreeAction.003
+  - first:
+      74: 8454149155042339397
+    second: Shoes|Shader NodetreeAction.004
+  - first:
+      74: -5466124876761735614
+    second: Shoes|Shader NodetreeAction.005
+  - first:
+      74: -5333885944629296749
+    second: Shoes|Shader NodetreeAction.006
+  - first:
+      74: -6759141457660527626
+    second: Shoes|Shader NodetreeAction.007
+  - first:
+      74: 1884874623896704377
+    second: Shoes|Shader NodetreeAction.008
+  - first:
+      74: 5642091867417064257
+    second: Shoes|Shader NodetreeAction.009
+  - first:
+      74: -3794525396993334500
+    second: Shoes|Shader NodetreeAction.010
+  - first:
+      74: 6109959599888330859
+    second: Shoes|Shader NodetreeAction.011
+  - first:
+      74: -4636462370003965072
+    second: Shoes|Shader NodetreeAction.012
+  - first:
+      74: 546211058150578771
+    second: Shoes|Shader NodetreeAction.013
+  - first:
+      74: 122506082729968517
+    second: Shoes|Shader NodetreeAction.014
+  - first:
+      74: 3776949487305126851
+    second: Shoes|Shader NodetreeAction.015
+  - first:
+      74: -7265527485939205383
+    second: Minne_armature|Clap
+  - first:
+      74: -3689632063645891998
+    second: Clap
+  - first:
+      74: 8975157659091946078
+    second: A-Pose
+  - first:
+      74: 2722918855976774782
+    second: Clap
+  - first:
+      74: 5761749028795778382
+    second: Head_shake
+  - first:
+      74: -7815568490595381933
+    second: I_dont_know
+  - first:
+      74: 334515083529082650
+    second: IdleStanding
+  - first:
+      74: -6369380417102052498
+    second: LeftTurn
+  - first:
+      74: 2769381746507606103
+    second: RightTurn
+  - first:
+      74: 6126809986604836217
+    second: Salsa
+  - first:
+      74: -4287879194672845104
+    second: Salute
+  - first:
+      74: -4363726139464370998
+    second: Thumbs_Up
+  - first:
+      74: -7939422232465117443
+    second: WalkCycle
+  - first:
+      74: -747145450517289361
+    second: WalkCycleV2
+  - first:
+      74: 3848355206397108983
+    second: Waving
+  - first:
+      74: 1261808205768788311
+    second: Minne_armature|Minne_armature|innocent_s
+  - first:
+      74: 661945616140309769
+    second: Minne_armature|Minne_armature|innocent_smile
+  - first:
+      74: -5051066539814325538
+    second: HeadTiltLeft
+  - first:
+      74: 6935577703832710745
+    second: Innocent_smile
+  - first:
+      74: 81551453255886985
+    second: EmpathicHeadTiltRight
+  - first:
+      74: -8453847598947575365
+    second: LeanForwardHandsOnHips
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair Base
+    second: {fileID: 2100000, guid: 146d4e057c7d140639837fed2b757b76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair Base.001
+    second: {fileID: 2100000, guid: d043d222375204299b0deebd0b5c5ee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT-rain.laces
+    second: {fileID: 2100000, guid: f80d8c80e84084439bb5d66d756e3feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT-rain.metal
+    second: {fileID: 2100000, guid: da82fbdb7e0b943c5b1eabcb2903d670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT-rain.shoes
+    second: {fileID: 2100000, guid: 6e6c5985b4ec244d4bd90f326fbae96c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT-rain.socks
+    second: {fileID: 2100000, guid: eb6df7fa63e3a463ba75002b4557e724, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne cornea
+    second: {fileID: 2100000, guid: 4ebb19c0a6ec34e01a7451ee416cc606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne eyelash
+    second: {fileID: 2100000, guid: d29e58f86aae244849516dc983ab5a2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne iris
+    second: {fileID: 2100000, guid: a50411c267a2744de892fffbf7522fde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne nails
+    second: {fileID: 2100000, guid: cce7de4ebab704a8c8ed30d17609fc21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne sclera
+    second: {fileID: 2100000, guid: 5acbc5a92611a4c44863244b06a3109b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne skin
+    second: {fileID: 2100000, guid: 0aad7b1d51f5c43a49dc73d9d8c342c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne teeth
+    second: {fileID: 2100000, guid: ec66a932aade04bd2a20b512b698079e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne tongue
+    second: {fileID: 2100000, guid: b68b4493bacae43009532e4e2d80c2f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne_MBlab_generic
+    second: {fileID: 2100000, guid: e2f977047da2446acb706ce95f406ec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poloshirt
+    second: {fileID: 2100000, guid: f80d8c80e84084439bb5d66d756e3feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poloshirt.001
+    second: {fileID: 2100000, guid: f80d8c80e84084439bb5d66d756e3feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trousers
+    second: {fileID: 2100000, guid: 7fb248b3e9f3a40089f01375cbcbed8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trousers.001
+    second: {fileID: 2100000, guid: 7fb248b3e9f3a40089f01375cbcbed8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kalem
+    second: {fileID: 2100000, guid: 25680191e31224747afe66df57d302c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kalem.001
+    second: {fileID: 2100000, guid: 25680191e31224747afe66df57d302c3, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: A-Pose
+      takeName: Minne_armature|Minne_armature|Minne_armature|A-Pose
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Clap
+      takeName: Minne_armature|Minne_armature|Minne_armature|Clap
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Head_shake
+      takeName: Minne_armature|Minne_armature|Minne_armature|Head_shake
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: I_dont_know
+      takeName: Minne_armature|Minne_armature|Minne_armature|I_dont_know
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IdleStanding
+      takeName: Minne_armature|Minne_armature|Minne_armature|IdleStanding
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LeftTurn
+      takeName: Minne_armature|Minne_armature|Minne_armature|LeftTurn
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RightTurn
+      takeName: Minne_armature|Minne_armature|Minne_armature|RightTurn
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Salsa
+      takeName: Minne_armature|Minne_armature|Minne_armature|Salsa
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Salute
+      takeName: Minne_armature|Minne_armature|Minne_armature|Salute
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Thumbs_Up
+      takeName: Minne_armature|Minne_armature|Minne_armature|Thumbs_Up
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkCycle
+      takeName: Minne_armature|Minne_armature|Minne_armature|WalkCycle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkCycleV2
+      takeName: Minne_armature|Minne_armature|Minne_armature|WalkCycleV2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Waving
+      takeName: Minne_armature|Minne_armature|Minne_armature|Waving
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 142
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Innocent_smile
+      takeName: Minne_armature|Minne_armature|innocent_smile
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HeadTiltLeft
+      takeName: Minne_armature|Minne_armature|Minne_armature|Head_tilt_righ
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: EmpathicHeadTiltRight
+      takeName: Minne_armature|Minne_armature|EmpathicHeadTilt
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LeanForwardHandsOnHips
+      takeName: Minne_armature|Minne_armature|lean_forward
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Minne_armature
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

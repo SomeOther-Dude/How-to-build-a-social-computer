@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 6efef4c138d9b3a4b8a7e4b3b315924e
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      74: -1717553449634599744
+    second: Minne_armature.001|Minne_armature.001
+  - first:
+      74: 2586846659729374
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|A-Pose
+  - first:
+      74: -1894271672131832559
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|EmpathicHeadTi
+  - first:
+      74: -5145702620669755318
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|innocent_s
+  - first:
+      74: -106738084409095106
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|innocent_smile
+  - first:
+      74: 7898818831865196305
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|lean_forward
+  - first:
+      74: 4987619058835941879
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma
+  - first:
+      74: -2377553169632873307
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.001
+  - first:
+      74: -2375657211446957501
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.002
+  - first:
+      74: -6930681128279042371
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.003
+  - first:
+      74: 7831768721318474311
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.004
+  - first:
+      74: -3722020919333870612
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.005
+  - first:
+      74: 3007150145364460956
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.006
+  - first:
+      74: -5560847929561275118
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.007
+  - first:
+      74: -4690514102395752990
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.008
+  - first:
+      74: -2117689322885942511
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.009
+  - first:
+      74: -593933938487641061
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.010
+  - first:
+      74: 7937475314442779296
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.011
+  - first:
+      74: 1225366712347062492
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.012
+  - first:
+      74: -7885789937398482024
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_arma.013
+  - first:
+      74: -630667581843366211
+    second: Minne_armature.001|Minne_armature.001|Minne_armature|Minne_armature|Minne_armature
+  - first:
+      74: 29642443995286468
+    second: Minne_armature.001|Minne_armature|Minne_armature|A-Pose
+  - first:
+      74: 1034911641164653333
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|EmpathicHeadTilt
+  - first:
+      74: 7410210410337871335
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|innocent_s
+  - first:
+      74: 6016618954823866727
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|innocent_smile
+  - first:
+      74: 5154115543194551203
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|lean_forward
+  - first:
+      74: 2399474022548023566
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature
+  - first:
+      74: 8688139024350062116
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature.001
+  - first:
+      74: -5797153656309040442
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature.002
+  - first:
+      74: -1763332740172127310
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature.003
+  - first:
+      74: -6371409717746900075
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|A-P
+  - first:
+      74: -7749687821672815984
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|Cla
+  - first:
+      74: -9169340871873569085
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|Hea
+  - first:
+      74: -8835026930006999557
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|I_d
+  - first:
+      74: 7410536760231772321
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|Idl
+  - first:
+      74: 1942202984807805132
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|Lef
+  - first:
+      74: 8017436939069965156
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|Rig
+  - first:
+      74: 5976548717824052636
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|Sal
+  - first:
+      74: -5105288224171997554
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|Thu
+  - first:
+      74: -8246355109125489745
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|Wal
+  - first:
+      74: 5692465304389872096
+    second: Minne_armature.001|Minne_armature|Minne_armature|Minne_armature|Minne_armature|Wav
+  - first:
+      74: 3339831675183063018
+    second: Minne_armature.001|test
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair Base.002
+    second: {fileID: 2100000, guid: 8587b4b5b08e9d846ad27005073d8cb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair Base.003
+    second: {fileID: 2100000, guid: be2abe52dcad1b246ac823c829997e01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT-rain.laces.001
+    second: {fileID: 2100000, guid: fcc30882f0a357043b9439cd5c457e77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT-rain.metal.001
+    second: {fileID: 2100000, guid: 1d9a8cd4550d27a43962b085f2fb4e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT-rain.shoes.001
+    second: {fileID: 2100000, guid: f853ab5afa8542f4d89a24d08cfd44b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT-rain.socks.001
+    second: {fileID: 2100000, guid: 7d944d06c17f8c541a9470d8df0c05de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne cornea.001
+    second: {fileID: 2100000, guid: 7af1ffd27e7520948ba95c7853a14f5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne eyelash.001
+    second: {fileID: 2100000, guid: 2735bceca38f57343af089f6d9fed2d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne iris.001
+    second: {fileID: 2100000, guid: 37bd88faadb129f488114cb1a1906163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne nails.001
+    second: {fileID: 2100000, guid: 19bcabff08e1bce49bd533994693fa2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne sclera.001
+    second: {fileID: 2100000, guid: 3fd9a29bbaaa19d4e963f8760642bf71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne skin.001
+    second: {fileID: 2100000, guid: 3337232cb652c404a8626ca603477661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne teeth.001
+    second: {fileID: 2100000, guid: 213976e058c6708459624eaeb0f79915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne tongue.001
+    second: {fileID: 2100000, guid: ca5deb9fa8dfc8d49a6085942158fffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Minne_MBlab_generic.001
+    second: {fileID: 2100000, guid: 62b024d0b43e264439c0ca681d7c8bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poloshirt.001
+    second: {fileID: 2100000, guid: b102a50ff2d24ef47b9e1dc0c6e37aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trousers.001
+    second: {fileID: 2100000, guid: 3d0d8a089da3fff4687de7f53ab40d2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kalem.001
+    second: {fileID: 2100000, guid: c5275ea23d2c39a498f60de190650d8e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
